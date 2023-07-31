@@ -67,7 +67,7 @@ if __name__ == "__main__":
     pdf_processor = PDFProcessor(chromadb_path, openai_api_key, openai_model_name)
     # pdf in the current directory
     pdf_processor.pdf_handler("sample.pdf")
-    search = pdf_processor.handleSearch("Factana")
+    search = pdf_processor.handleSearch("User search text")
     print("Search Result: ", search)
 
     
