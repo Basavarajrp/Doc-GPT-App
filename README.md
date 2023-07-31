@@ -3,5 +3,5 @@ Using this application user can upload the file and start communicating/question
 
 
 # Stack
-Python
-[Chroma DB](https://docs.trychroma.com/getting-started)
+1. Python
+2. [Chroma DB](https://docs.trychroma.com/getting-started)
